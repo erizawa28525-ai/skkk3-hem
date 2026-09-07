@@ -1,0 +1,48 @@
+{
+    "slider": [
+        {
+            "id": 1,
+            "title": "Selamat Datang ke Portal HEM SK Kubang Kerian 3",
+            "desc": "Membina Sahsiah, Memperkasa Disiplin, dan Menjaga Kebajikan Murid.",
+            "type": "image",
+            "url": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&q=80&w=1200",
+            "active": true
+        },
+        {
+            "id": 2,
+            "title": "Aktiviti Kokurikulum & Sahsiah Unggul",
+            "desc": "Rangkuman penglibatan aktif murid-murid dalam membina ketahanan diri.",
+            "type": "video",
+            "url": "https://assets.mixkit.co/videos/preview/mixkit-children-playing-with-toys-at-school-41551-large.mp4",
+            "active": true
+        },
+        {
+            "id": 3,
+            "title": "Kempen Sayangi Sekolah Kita",
+            "desc": "Sama-sama menjaga kebersihan dan keceriaan demi persekitaran kondusif.",
+            "type": "image",
+            "url": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80&w=1200",
+            "active": true
+        }
+    ],
+    "announcements": [
+        {
+            "id": "1",
+            "title": "Mesyuarat Agung PIBG Kali Ke-34",
+            "date": "2026-09-15",
+            "content": "Semua ibu bapa dan penjaga murid SK Kubang Kerian 3 dijemput hadir ke Mesyuarat Agung PIBG kali ke-34. Kehadiran tuan/puan amat penting bagi membincangkan kebajikan dan perancangan akademik anak-anak.",
+            "media_type": "image",
+            "media_url": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&q=80&w=800",
+            "priority": "Penting"
+        },
+        {
+            "id": "2",
+            "title": "Program Kesihatan & Pemeriksaan Gigi",
+            "date": "2026-09-10",
+            "content": "Unit Hal Ehwal Murid (HEM) dengan kerjasama Klinik Pergigian Kubang Kerian akan mengadakan pemeriksaan kesihatan pergigian dan fizikal bagi murid-murid Tahun 1 hingga Tahun 6 secara berperingkat.",
+            "media_type": "none",
+            "media_url": "",
+            "priority": "Normal"
+        }
+    ]
+}
